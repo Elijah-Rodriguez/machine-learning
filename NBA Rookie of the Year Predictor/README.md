@@ -99,4 +99,4 @@ With no clear dominant force to win the award like last season, it makes the cho
 
 The player data was scraped as of 1/28/2025. The model at this time has chosen San Antonio guard Stephon Castle to be the 2024-2025 NBA Rookie of the Year! Stephon Castle is averaging 11.9PPG, 2.6RPG, 3.5APG, and shooting 40.4% from the field. In his last 10 games, Castle has been averaging 15.1PPG, 2.6RPG, 3.3APG, and a 44.3 FG%.
 
-All files used will be included in the repository along with a requirements.txt file to replicate in a local environment.
+All files used will be included in the repository along with a requirements.txt file to replicate in a local environment. To replicate this project, run the selenium-scraper.py file first, then requests-scraper.ipynb, and finally roy.ipynb. These files were seperated to not send requests everytime the model was changed.
