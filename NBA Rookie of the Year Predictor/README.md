@@ -5,7 +5,7 @@ To predict the winner of the annual NBA Rookie of the Year award by attempting t
 
 My approach to this project was to see how accurate my model can predict the winner by focusing on tuning an XGB Regressor model. Linear regression is the logical model choice for this problem due to the amount of independent and dependent variables in the dataset as well as the fact that linear regression models are typically chosen for predictive problems.
 
-This project was inspired by [Dataquest](https://www.youtube.com/watch?v=JGQGd-oa0l4&t=0s)
+This project was inspired by [Dataquest](https://www.youtube.com/watch?v=JGQGd-oa0l4&t=0s).
 
 ## Dataset
 This dataset was compiled through web scraping https://www.basketball-reference.com. The total combined dataset after basic data cleaning contains 3,439 rows and 41 columns.
